@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Tap.NetCore.HttpClient.17.07.2024.001.Test</PackageId>
+    <Version>0.0.0</Version>
+    <Authors>David Pueyro</Authors>
+    <Company>Tap.NetCore.HttpClient</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Polly" Version="8.4.1" />
+  </ItemGroup>
+
+</Project>
